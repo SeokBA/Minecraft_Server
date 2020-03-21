@@ -1,106 +1,67 @@
-[11:38:46] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:38:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:38:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:38:46] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:38:46] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:38:46] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[11:38:46] [Server thread/INFO]: Loading properties
-[11:38:46] [Server thread/INFO]: Default game type: SURVIVAL
-[11:38:46] [Server thread/INFO]: Generating keypair
-[11:38:46] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:38:46] [Server thread/INFO]: Using default channel type
-[11:38:46] [Server thread/INFO]: Preparing level "world"
-[11:38:46] [Server thread/INFO]: Reloading ResourceManager: Default
-[11:38:49] [Server thread/INFO]: Loaded 6 recipes
-[11:38:49] [Server thread/INFO]: Loaded 825 advancements
-[11:38:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:38:50] [Server thread/INFO]: Preparing spawn area: 0%
-[11:38:50] [Server thread/INFO]: Preparing spawn area: 0%
-[11:38:50] [Server thread/INFO]: Time elapsed: 996 ms
-[11:38:50] [Server thread/INFO]: Done (4.049s)! For help, type "help"
-[11:38:55] [Server thread/INFO]: /advancement (grant|revoke)
-[11:38:55] [Server thread/INFO]: /ban <targets> [<reason>]
-[11:38:55] [Server thread/INFO]: /ban-ip <target> [<reason>]
-[11:38:55] [Server thread/INFO]: /banlist [ips|players]
-[11:38:55] [Server thread/INFO]: /bossbar (add|get|list|remove|set)
-[11:38:55] [Server thread/INFO]: /clear [<targets>]
-[11:38:55] [Server thread/INFO]: /clone <begin> <end> <destination> [filtered|masked|replace]
-[11:38:55] [Server thread/INFO]: /data (get|merge|modify|remove)
-[11:38:55] [Server thread/INFO]: /datapack (disable|enable|list)
-[11:38:55] [Server thread/INFO]: /debug (report|start|stop)
-[11:38:55] [Server thread/INFO]: /defaultgamemode (adventure|creative|spectator|survival)
-[11:38:55] [Server thread/INFO]: /deop <targets>
-[11:38:55] [Server thread/INFO]: /difficulty [easy|hard|normal|peaceful]
-[11:38:55] [Server thread/INFO]: /effect (clear|give)
-[11:38:55] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
-[11:38:55] [Server thread/INFO]: /execute (align|anchored|as|at|facing|if|in|positioned|rotated|run|store|unless)
-[11:38:55] [Server thread/INFO]: /experience (add|query|set)
-[11:38:55] [Server thread/INFO]: /fill <from> <to> <block> [destroy|hollow|keep|outline|replace]
-[11:38:55] [Server thread/INFO]: /forceload (add|query|remove)
-[11:38:55] [Server thread/INFO]: /function <name>
-[11:38:55] [Server thread/INFO]: /gamemode (adventure|creative|spectator|survival)
-[11:38:55] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks)
-[11:38:55] [Server thread/INFO]: /give <targets> <item> [<count>]
-[11:38:55] [Server thread/INFO]: /help [<command>]
-[11:38:55] [Server thread/INFO]: /kick <targets> [<reason>]
-[11:38:55] [Server thread/INFO]: /kill [<targets>]
-[11:38:55] [Server thread/INFO]: /list [uuids]
-[11:38:55] [Server thread/INFO]: /locate (Buried_Treasure|Desert_Pyramid|EndCity|Fortress|Igloo|Jungle_Pyramid|Mansion|Mineshaft|Monument|Ocean_Ruin|Pillager_Outpost|Shipwreck|Stronghold|Swamp_Hut|Village)
-[11:38:55] [Server thread/INFO]: /loot (give|insert|replace|spawn)
-[11:38:55] [Server thread/INFO]: /me <action>
-[11:38:55] [Server thread/INFO]: /msg <targets> <message>
-[11:38:55] [Server thread/INFO]: /op <targets>
-[11:38:55] [Server thread/INFO]: /pardon <targets>
-[11:38:55] [Server thread/INFO]: /pardon-ip <target>
-[11:38:55] [Server thread/INFO]: /particle <name> [<pos>]
-[11:38:55] [Server thread/INFO]: /playsound <sound> (ambient|block|hostile|master|music|neutral|player|record|voice|weather)
-[11:38:55] [Server thread/INFO]: /recipe (give|take)
-[11:38:55] [Server thread/INFO]: /reload
-[11:38:55] [Server thread/INFO]: /replaceitem (block|entity)
-[11:38:55] [Server thread/INFO]: /save-all [flush]
-[11:38:55] [Server thread/INFO]: /save-off
-[11:38:55] [Server thread/INFO]: /save-on
-[11:38:55] [Server thread/INFO]: /say <message>
-[11:38:55] [Server thread/INFO]: /schedule (clear|function)
-[11:38:55] [Server thread/INFO]: /scoreboard (objectives|players)
-[11:38:55] [Server thread/INFO]: /seed
-[11:38:55] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
-[11:38:55] [Server thread/INFO]: /setidletimeout <minutes>
-[11:38:55] [Server thread/INFO]: /setworldspawn [<pos>]
-[11:38:55] [Server thread/INFO]: /spawnpoint [<targets>]
-[11:38:55] [Server thread/INFO]: /spectate [<target>]
-[11:38:55] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> <respectTeams> <targets>
-[11:38:55] [Server thread/INFO]: /stop
-[11:38:55] [Server thread/INFO]: /stopsound <targets> [*|ambient|block|hostile|master|music|neutral|player|record|voice|weather]
-[11:38:55] [Server thread/INFO]: /summon <entity> [<pos>]
-[11:38:55] [Server thread/INFO]: /tag <targets> (add|list|remove)
-[11:38:55] [Server thread/INFO]: /team (add|empty|join|leave|list|modify|remove)
-[11:38:55] [Server thread/INFO]: /teammsg <message>
-[11:38:55] [Server thread/INFO]: /teleport (<destination>|<location>|<targets>)
-[11:38:55] [Server thread/INFO]: /tell -> msg
-[11:38:55] [Server thread/INFO]: /tellraw <targets> <message>
-[11:38:55] [Server thread/INFO]: /time (add|query|set)
-[11:38:55] [Server thread/INFO]: /title <targets> (actionbar|clear|reset|subtitle|times|title)
-[11:38:55] [Server thread/INFO]: /tm -> teammsg
-[11:38:55] [Server thread/INFO]: /tp -> teleport
-[11:38:55] [Server thread/INFO]: /trigger <objective> [add|set]
-[11:38:55] [Server thread/INFO]: /w -> msg
-[11:38:55] [Server thread/INFO]: /weather (clear|rain|thunder)
-[11:38:55] [Server thread/INFO]: /whitelist (add|list|off|on|reload|remove)
-[11:38:55] [Server thread/INFO]: /worldborder (add|center|damage|get|set|warning)
-[11:38:55] [Server thread/INFO]: /xp -> experience
-[11:39:03] [Server thread/INFO]: Unknown command
-[11:39:03] [Server thread/INFO]: exit<--[HERE]
-[11:39:16] [Server thread/INFO]: Stopping the server
-[11:39:16] [Server thread/INFO]: Stopping server
-[11:39:16] [Server thread/INFO]: Saving players
-[11:39:16] [Server thread/INFO]: Saving worlds
-[11:39:16] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[11:39:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[11:39:16] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[11:39:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[11:39:16] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[11:39:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[11:39:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[11:39:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[11:39:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:29:49] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:29:49] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:29:49] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:29:49] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:29:49] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[11:29:49] [Server thread/INFO]: Loading properties
+[11:29:49] [Server thread/INFO]: Default game type: SURVIVAL
+[11:29:49] [Server thread/INFO]: Generating keypair
+[11:29:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:29:49] [Server thread/INFO]: Using default channel type
+[11:29:52] [Server thread/INFO]: Preparing level "world"
+[11:29:52] [Server thread/INFO]: Reloading ResourceManager: Default
+[11:29:52] [Server thread/INFO]: Loaded 6 recipes
+[11:29:53] [Server thread/INFO]: Loaded 825 advancements
+[11:29:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:29:53] [Server thread/INFO]: Preparing spawn area: 0%
+[11:29:53] [Server thread/INFO]: Preparing spawn area: 0%
+[11:29:54] [Server thread/INFO]: Preparing spawn area: 0%
+[11:29:54] [Server thread/INFO]: Time elapsed: 1213 ms
+[11:29:54] [Server thread/INFO]: Done (1.834s)! For help, type "help"
+[11:31:01] [User Authenticator #1/INFO]: UUID of player hyunjivv is 738bbece-4065-44bd-81b8-a084d8287a4f
+[11:31:01] [Server thread/INFO]: hyunjivv[/127.0.0.1:55141] logged in with entity id 530 at (-73.05605459135, 62.07326471152709, 826.7344366669596)
+[11:31:01] [Server thread/INFO]: hyunjivv joined the game
+[11:31:08] [Server thread/INFO]: hyunjivv lost connection: Disconnected
+[11:31:08] [Server thread/INFO]: hyunjivv left the game
+[11:33:23] [User Authenticator #2/INFO]: UUID of player SeokHoKim is b9b5d7a0-ddd0-4602-82bf-a57c811e146c
+[11:33:23] [Server thread/INFO]: SeokHoKim[/127.0.0.1:55212] logged in with entity id 799 at (319.7013191491002, 76.0, -100.66539160940204)
+[11:33:23] [Server thread/INFO]: SeokHoKim joined the game
+[11:39:31] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/2245, l='world', x=303.80, y=78.00, z=-64.80]
+[11:50:47] [Server thread/INFO]: SeokHoKim lost connection: Disconnected
+[11:50:47] [Server thread/INFO]: SeokHoKim left the game
+[15:05:22] [User Authenticator #3/INFO]: UUID of player SeokHoKim is b9b5d7a0-ddd0-4602-82bf-a57c811e146c
+[15:05:22] [Server thread/INFO]: SeokHoKim[/127.0.0.1:56211] logged in with entity id 4253 at (349.82794260462265, 76.0, -48.71063510914776)
+[15:05:22] [Server thread/INFO]: SeokHoKim joined the game
+[15:07:25] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/4691, l='world', x=303.80, y=78.00, z=-64.80]
+[15:09:51] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/5052, l='world', x=303.80, y=78.00, z=-64.80]
+[15:10:14] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/5124, l='world', x=303.20, y=78.00, z=-64.20]
+[15:13:43] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/5702, l='world', x=303.80, y=78.00, z=-64.80]
+[15:17:17] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/6356, l='world', x=303.20, y=78.00, z=-64.80]
+[15:20:16] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/6951, l='world', x=303.80, y=78.00, z=-64.80]
+[15:20:51] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/7072, l='world', x=303.20, y=78.00, z=-64.20]
+[15:25:06] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/8034, l='world', x=303.20, y=78.00, z=-64.20]
+[15:26:17] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=420, y=79, z=-68} fk{x=421, y=79, z=-68}
+[15:26:17] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=420, y=79, z=-68} fk{x=421, y=79, z=-68}
+[15:26:17] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=420, y=79, z=-68} fk{x=421, y=79, z=-68}
+[15:26:17] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=419, y=79, z=-71} fk{x=418, y=79, z=-69}
+[15:26:18] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=419, y=79, z=-71} fk{x=419, y=79, z=-70}
+[15:26:18] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=419, y=79, z=-71} fk{x=419, y=79, z=-70}
+[15:26:57] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=386, y=79, z=-57} fk{x=385, y=79, z=-57}
+[15:33:22] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/9778, l='world', x=303.20, y=78.00, z=-64.20]
+[15:38:06] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/10692, l='world', x=303.80, y=78.00, z=-64.80]
+[15:54:42] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/13626, l='world', x=303.20, y=78.00, z=-64.20]
+[16:07:53] [Server thread/INFO]: SeokHoKim lost connection: Disconnected
+[16:07:53] [Server thread/INFO]: SeokHoKim left the game
+[16:16:13] [Server thread/INFO]: Stopping the server
+[16:16:13] [Server thread/INFO]: Stopping server
+[16:16:13] [Server thread/INFO]: Saving players
+[16:16:13] [Server thread/INFO]: Saving worlds
+[16:16:13] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[16:16:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:16:13] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[16:16:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:16:13] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[16:16:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:16:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:16:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:16:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
