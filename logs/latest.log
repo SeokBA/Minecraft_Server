@@ -1,25 +1,55 @@
-[15:33:09] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:33:09] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:33:09] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:33:09] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:33:10] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:33:10] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[15:33:10] [Server thread/INFO]: Loading properties
-[15:33:10] [Server thread/INFO]: Default game type: SURVIVAL
-[15:33:10] [Server thread/INFO]: Generating keypair
-[15:33:10] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:33:10] [Server thread/INFO]: Using default channel type
-[15:33:17] [Server thread/INFO]: Preparing level "world"
-[15:33:17] [Server thread/INFO]: Reloading ResourceManager: Default
-[15:33:31] [Server thread/INFO]: Loaded 6 recipes
-[15:33:31] [Server thread/INFO]: Loaded 825 advancements
-[15:33:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:33:32] [Server thread/INFO]: Preparing spawn area: 0%
-[15:33:32] [Server thread/INFO]: Preparing spawn area: 0%
-[15:33:32] [Server thread/INFO]: Preparing spawn area: 0%
-[15:33:34] [Server thread/INFO]: Preparing spawn area: 0%
-[15:33:34] [Server thread/INFO]: Preparing spawn area: 0%
-[15:33:34] [Server thread/INFO]: Time elapsed: 2802 ms
-[15:33:34] [Server thread/INFO]: Done (17.463s)! For help, type "help"
-[15:33:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
-[15:35:02] [Server thread/INFO]: com.mojang.authlib.GameProfile@1dbdf0d5[id=<null>,name=SeokHoKim,properties={},legacy=false] (/127.0.0.1:53712) lost connection: Disconnected
+[15:35:55] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:35:55] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:35:55] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:35:55] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:35:55] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:35:55] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[15:35:55] [Server thread/INFO]: Loading properties
+[15:35:55] [Server thread/INFO]: Default game type: SURVIVAL
+[15:35:55] [Server thread/INFO]: Generating keypair
+[15:35:56] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:35:56] [Server thread/INFO]: Using default channel type
+[15:35:57] [Server thread/INFO]: Preparing level "world"
+[15:35:57] [Server thread/INFO]: Reloading ResourceManager: Default
+[15:36:06] [User Authenticator #1/INFO]: UUID of player SeokHoKim is b9b5d7a0-ddd0-4602-82bf-a57c811e146c
+[15:36:17] [Server thread/INFO]: Loaded 6 recipes
+[15:36:18] [Server thread/INFO]: Loaded 825 advancements
+[15:36:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:36:20] [Server thread/INFO]: Preparing spawn area: 0%
+[15:36:20] [Server thread/INFO]: Preparing spawn area: 0%
+[15:36:20] [Server thread/INFO]: Preparing spawn area: 0%
+[15:36:20] [Server thread/INFO]: Preparing spawn area: 0%
+[15:36:20] [Server thread/INFO]: Preparing spawn area: 0%
+[15:36:21] [Server thread/INFO]: Time elapsed: 2730 ms
+[15:36:21] [Server thread/INFO]: Done (23.888s)! For help, type "help"
+[15:36:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@2ee6fe30[id=<null>,name=SeokHoKim,properties={},legacy=false] (/127.0.0.1:53735) lost connection: Disconnected
+[15:36:22] [Server thread/INFO]: SeokHoKim[/127.0.0.1:53737] logged in with entity id 553 at (344.47496959404174, 76.0, -49.6944602697448)
+[15:36:22] [Server thread/INFO]: SeokHoKim joined the game
+[15:36:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2228ms or 44 ticks behind
+[15:36:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15670ms or 313 ticks behind
+[15:37:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2271ms or 45 ticks behind
+[15:46:17] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/1934, l='world', x=303.80, y=78.00, z=-64.80]
+[15:46:45] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/1988, l='world', x=303.80, y=78.00, z=-64.80]
+[15:49:44] [Server thread/INFO]: SeokHoKim lost connection: Disconnected
+[15:49:44] [Server thread/INFO]: SeokHoKim left the game
+[15:58:48] [User Authenticator #2/INFO]: UUID of player SeokHoKim is b9b5d7a0-ddd0-4602-82bf-a57c811e146c
+[15:58:48] [Server thread/INFO]: SeokHoKim[/127.0.0.1:53791] logged in with entity id 2353 at (352.0106554326037, 76.0, -45.71227407980016)
+[15:58:48] [Server thread/INFO]: SeokHoKim joined the game
+[16:00:41] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/2618, l='world', x=303.80, y=78.00, z=-64.20]
+[16:02:23] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/3014, l='world', x=303.80, y=78.00, z=-64.80]
+[16:08:13] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/3869, l='world', x=303.80, y=78.00, z=-64.20]
+[16:26:22] [Server thread/INFO]: SeokHoKim lost connection: Disconnected
+[16:26:22] [Server thread/INFO]: SeokHoKim left the game
+[16:26:27] [Server thread/INFO]: Stopping the server
+[16:26:27] [Server thread/INFO]: Stopping server
+[16:26:27] [Server thread/INFO]: Saving players
+[16:26:27] [Server thread/INFO]: Saving worlds
+[16:26:27] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[16:26:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:26:27] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[16:26:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:26:27] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[16:26:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:26:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:26:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:26:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
