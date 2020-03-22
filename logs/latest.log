@@ -1,81 +1,17 @@
-[18:45:00] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:45:00] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:45:00] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:45:00] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:45:00] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:45:01] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[18:45:01] [Server thread/INFO]: Loading properties
-[18:45:01] [Server thread/INFO]: Default game type: SURVIVAL
-[18:45:01] [Server thread/INFO]: Generating keypair
-[18:45:01] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:45:01] [Server thread/INFO]: Using default channel type
-[18:45:15] [Server thread/INFO]: Preparing level "world"
-[18:45:16] [Server thread/INFO]: Reloading ResourceManager: Default
-[18:45:39] [Server thread/INFO]: Loaded 6 recipes
-[18:45:40] [Server thread/INFO]: Loaded 825 advancements
-[18:45:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:45:43] [Server thread/INFO]: Preparing spawn area: 0%
-[18:45:43] [Server thread/INFO]: Preparing spawn area: 0%
-[18:45:43] [Server thread/INFO]: Preparing spawn area: 0%
-[18:45:43] [Server thread/INFO]: Preparing spawn area: 0%
-[18:45:43] [Server thread/INFO]: Preparing spawn area: 0%
-[18:45:43] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:45:45] [Server thread/INFO]: Preparing spawn area: 0%
-[18:45:45] [Server thread/INFO]: Preparing spawn area: 0%
-[18:45:45] [Server thread/INFO]: Preparing spawn area: 0%
-[18:45:45] [Server thread/INFO]: Preparing spawn area: 86%
-[18:45:50] [Server thread/INFO]: Time elapsed: 9630 ms
-[18:45:50] [Server thread/INFO]: Done (34.761s)! For help, type "help"
-[18:45:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
-[18:46:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8169ms or 163 ticks behind
-[18:47:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@2729ad48[id=<null>,name=SeokHoKim,properties={},legacy=false] (/127.0.0.1:53976) lost connection: Disconnected
-[18:47:16] [User Authenticator #1/INFO]: UUID of player SeokHoKim is b9b5d7a0-ddd0-4602-82bf-a57c811e146c
-[18:47:17] [Server thread/INFO]: SeokHoKim[/127.0.0.1:53994] logged in with entity id 555 at (353.3752186361102, 76.0, -40.93985243318638)
-[18:47:17] [Server thread/INFO]: SeokHoKim joined the game
-[18:47:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
-[18:47:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8498ms or 169 ticks behind
-[18:48:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3489ms or 69 ticks behind
-[18:51:13] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/1281, l='world', x=303.20, y=78.00, z=-64.20]
-[18:54:57] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/1923, l='world', x=303.80, y=78.00, z=-64.20]
-[18:57:12] [Server thread/WARN]: SeokHoKim moved wrongly!
-[19:06:24] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/4101, l='world', x=303.80, y=78.00, z=-64.80]
-[19:12:09] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/5047, l='world', x=303.80, y=78.00, z=-64.20]
-[19:21:05] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/6610, l='world', x=303.80, y=78.00, z=-64.80]
-[19:26:26] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/7399, l='world', x=303.80, y=78.00, z=-64.20]
-[19:29:11] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/7899, l='world', x=303.20, y=78.00, z=-64.20]
-[19:30:09] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/8077, l='world', x=303.80, y=78.00, z=-64.80]
-[19:34:54] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/8807, l='world', x=303.80, y=78.00, z=-64.20]
-[19:37:52] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/9257, l='world', x=303.20, y=78.00, z=-64.80]
-[19:52:12] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/11985, l='world', x=303.20, y=78.00, z=-64.20]
-[20:06:02] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/14339, l='world', x=303.20, y=78.00, z=-64.20]
-[20:07:40] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/14616, l='world', x=303.80, y=78.00, z=-64.20]
-[20:09:14] [Server thread/INFO]: SeokHoKim lost connection: Disconnected
-[20:09:14] [Server thread/INFO]: SeokHoKim left the game
-[21:01:56] [User Authenticator #2/INFO]: UUID of player SeokHoKim is b9b5d7a0-ddd0-4602-82bf-a57c811e146c
-[21:01:57] [Server thread/INFO]: SeokHoKim[/127.0.0.1:56354] logged in with entity id 14893 at (318.88797397303625, 80.0, -106.32765884558097)
-[21:01:57] [Server thread/INFO]: SeokHoKim joined the game
-[21:02:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
-[21:08:26] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/16052, l='world', x=303.80, y=78.00, z=-64.80]
-[21:09:06] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/16164, l='world', x=303.80, y=78.00, z=-64.80]
-[21:09:44] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/16308, l='world', x=303.20, y=78.00, z=-64.20]
-[21:09:53] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/16322, l='world', x=303.20, y=78.00, z=-64.20]
-[21:15:02] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/17280, l='world', x=303.20, y=78.00, z=-64.20]
-[21:18:26] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/17806, l='world', x=303.20, y=78.00, z=-64.20]
-[21:21:44] [Server thread/WARN]: SeokHoKim moved wrongly!
-[21:31:27] [Server thread/INFO]: SeokHoKim lost connection: Disconnected
-[21:31:27] [Server thread/INFO]: SeokHoKim left the game
-[21:31:32] [Server thread/INFO]: Unknown command
-[21:31:32] [Server thread/INFO]: stop\<--[HERE]
-[21:31:35] [Server thread/INFO]: Stopping the server
-[21:31:35] [Server thread/INFO]: Stopping server
-[21:31:35] [Server thread/INFO]: Saving players
-[21:31:35] [Server thread/INFO]: Saving worlds
-[21:31:35] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[21:31:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:31:35] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[21:31:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:31:35] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[21:31:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:31:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:31:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:31:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:02:35] [Server thread/INFO]: SeokHoKim lost connection: Disconnected
+[00:02:35] [Server thread/INFO]: SeokHoKim left the game
+[00:16:14] [Server thread/INFO]: Unknown command
+[00:16:14] [Server thread/INFO]: wstop<--[HERE]
+[00:16:20] [Server thread/INFO]: Stopping the server
+[00:16:20] [Server thread/INFO]: Stopping server
+[00:16:20] [Server thread/INFO]: Saving players
+[00:16:20] [Server thread/INFO]: Saving worlds
+[00:16:20] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[00:16:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:16:20] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[00:16:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:16:20] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[00:16:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:16:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:16:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:16:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
