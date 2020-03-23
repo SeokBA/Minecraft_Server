@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2020-03-23 20:46:00 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2020-02-09 22:40:20 +0900"
@@ -381,6 +387,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2020-03-03 16:09:18 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2020-03-23 22:01:53 +0900"
     },
     "done": true
   },
@@ -720,7 +732,9 @@
       "minecraft:blaze": "2020-03-22 23:39:23 +0900",
       "minecraft:skeleton": "2020-02-21 16:40:15 +0900",
       "minecraft:zombie_pigman": "2020-02-29 21:53:47 +0900",
+      "minecraft:ghast": "2020-03-23 14:16:16 +0900",
       "minecraft:vindicator": "2020-02-29 19:51:51 +0900",
+      "minecraft:magma_cube": "2020-03-23 14:07:10 +0900",
       "minecraft:spider": "2020-02-19 19:30:47 +0900",
       "minecraft:creeper": "2020-02-27 03:15:32 +0900",
       "minecraft:slime": "2020-02-27 01:55:15 +0900",
@@ -2371,6 +2385,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2020-03-23 22:01:53 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2020-02-09 22:47:35 +0900"
@@ -2569,6 +2589,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2020-03-23 22:41:38 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-02-09 23:20:20 +0900"
@@ -2596,6 +2622,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2020-02-09 22:47:35 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2020-03-23 22:41:38 +0900"
     },
     "done": true
   },
