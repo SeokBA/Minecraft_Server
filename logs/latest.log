@@ -1,26 +1,24 @@
-[19:04:17] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:04:17] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:04:17] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:04:17] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:04:17] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[19:04:17] [Server thread/INFO]: Loading properties
-[19:04:17] [Server thread/INFO]: Default game type: SURVIVAL
-[19:04:17] [Server thread/INFO]: Generating keypair
-[19:04:17] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:04:17] [Server thread/INFO]: Using default channel type
-[19:04:20] [Server thread/INFO]: Preparing level "world"
-[19:04:20] [Server thread/INFO]: Reloading ResourceManager: Default
-[19:04:21] [Server thread/INFO]: Loaded 6 recipes
-[19:04:21] [Server thread/INFO]: Loaded 825 advancements
-[19:04:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:04:23] [Server thread/INFO]: Preparing spawn area: 0%
-[19:04:23] [Server thread/INFO]: Preparing spawn area: 0%
-[19:04:23] [Server thread/INFO]: Preparing spawn area: 0%
-[19:04:23] [Server thread/INFO]: Preparing spawn area: 0%
-[19:04:24] [Server thread/INFO]: Time elapsed: 2625 ms
-[19:04:24] [Server thread/INFO]: Done (4.472s)! For help, type "help"
-[19:04:40] [User Authenticator #1/INFO]: UUID of player SeokHoKim is b9b5d7a0-ddd0-4602-82bf-a57c811e146c
-[19:04:40] [Server thread/INFO]: SeokHoKim[/127.0.0.1:51059] logged in with entity id 558 at (312.0091616694306, 43.0, -153.65890582617232)
-[19:04:40] [Server thread/INFO]: SeokHoKim joined the game
-[19:20:01] [Server thread/INFO]: SeokHoKim lost connection: Disconnected
-[19:20:01] [Server thread/INFO]: SeokHoKim left the game
+[00:00:57] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/25478, l='world', x=303.20, y=78.00, z=-64.80]
+[00:01:30] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/25572, l='world', x=303.20, y=78.00, z=-64.20]
+[00:01:32] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/25578, l='world', x=303.80, y=78.00, z=-64.80]
+[00:02:06] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/25662, l='world', x=303.80, y=78.00, z=-64.20]
+[00:06:44] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/26571, l='world', x=303.20, y=78.00, z=-64.20]
+[00:07:25] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/26690, l='world', x=303.80, y=78.00, z=-64.20]
+[00:11:00] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/27364, l='world', x=303.80, y=78.00, z=-64.80]
+[00:22:06] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/29658, l='world', x=303.80, y=78.00, z=-64.20]
+[00:23:06] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/29839, l='world', x=303.80, y=78.00, z=-64.80]
+[00:23:39] [Server thread/INFO]: SeokHoKim lost connection: Disconnected
+[00:23:39] [Server thread/INFO]: SeokHoKim left the game
+[00:23:45] [Server thread/INFO]: Stopping the server
+[00:23:45] [Server thread/INFO]: Stopping server
+[00:23:45] [Server thread/INFO]: Saving players
+[00:23:45] [Server thread/INFO]: Saving worlds
+[00:23:45] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[00:23:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:23:46] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[00:23:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:23:46] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[00:23:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:23:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:23:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:23:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
