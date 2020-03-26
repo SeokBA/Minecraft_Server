@@ -1,47 +1,26 @@
-[17:29:03] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:29:03] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:29:03] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:29:03] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:29:03] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[17:29:03] [Server thread/INFO]: Loading properties
-[17:29:03] [Server thread/INFO]: Default game type: SURVIVAL
-[17:29:03] [Server thread/INFO]: Generating keypair
-[17:29:04] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:29:04] [Server thread/INFO]: Using default channel type
-[17:29:07] [Server thread/INFO]: Preparing level "world"
-[17:29:07] [Server thread/INFO]: Reloading ResourceManager: Default
-[17:29:08] [Server thread/INFO]: Loaded 6 recipes
-[17:29:08] [Server thread/INFO]: Loaded 825 advancements
-[17:29:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:29:10] [Server thread/INFO]: Preparing spawn area: 0%
-[17:29:10] [Server thread/INFO]: Preparing spawn area: 0%
-[17:29:10] [Server thread/INFO]: Preparing spawn area: 0%
-[17:29:10] [Server thread/INFO]: Preparing spawn area: 0%
-[17:29:10] [Server thread/INFO]: Preparing spawn area: 83%
-[17:29:11] [Server thread/INFO]: Time elapsed: 3002 ms
-[17:29:11] [Server thread/INFO]: Done (4.648s)! For help, type "help"
-[17:29:22] [User Authenticator #1/INFO]: UUID of player SeokHoKim is b9b5d7a0-ddd0-4602-82bf-a57c811e146c
-[17:29:22] [Server thread/INFO]: SeokHoKim[/127.0.0.1:56131] logged in with entity id 568 at (317.2131767832409, 76.0, -101.78865403382524)
-[17:29:22] [Server thread/INFO]: SeokHoKim joined the game
-[17:36:27] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/1779, l='world', x=303.80, y=78.00, z=-64.20]
-[17:40:59] [Server thread/WARN]: SeokHoKim was kicked for floating too long!
-[17:40:59] [Server thread/INFO]: SeokHoKim lost connection: Flying is not enabled on this server
-[17:40:59] [Server thread/INFO]: SeokHoKim left the game
-[17:41:02] [User Authenticator #2/INFO]: UUID of player SeokHoKim is b9b5d7a0-ddd0-4602-82bf-a57c811e146c
-[17:41:02] [Server thread/INFO]: SeokHoKim[/127.0.0.1:56187] logged in with entity id 2695 at (316.299999974668, 76.0000002, -100.70000002533197)
-[17:41:02] [Server thread/INFO]: SeokHoKim joined the game
-[18:12:11] [Server thread/INFO]: SeokHoKim lost connection: Disconnected
-[18:12:11] [Server thread/INFO]: SeokHoKim left the game
-[18:12:15] [Server thread/INFO]: Stopping the server
-[18:12:15] [Server thread/INFO]: Stopping server
-[18:12:15] [Server thread/INFO]: Saving players
-[18:12:15] [Server thread/INFO]: Saving worlds
-[18:12:15] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[18:12:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:12:15] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[18:12:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:12:15] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[18:12:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:12:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:12:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:12:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:04:17] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:04:17] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:04:17] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:04:17] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:04:17] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[19:04:17] [Server thread/INFO]: Loading properties
+[19:04:17] [Server thread/INFO]: Default game type: SURVIVAL
+[19:04:17] [Server thread/INFO]: Generating keypair
+[19:04:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:04:17] [Server thread/INFO]: Using default channel type
+[19:04:20] [Server thread/INFO]: Preparing level "world"
+[19:04:20] [Server thread/INFO]: Reloading ResourceManager: Default
+[19:04:21] [Server thread/INFO]: Loaded 6 recipes
+[19:04:21] [Server thread/INFO]: Loaded 825 advancements
+[19:04:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:04:23] [Server thread/INFO]: Preparing spawn area: 0%
+[19:04:23] [Server thread/INFO]: Preparing spawn area: 0%
+[19:04:23] [Server thread/INFO]: Preparing spawn area: 0%
+[19:04:23] [Server thread/INFO]: Preparing spawn area: 0%
+[19:04:24] [Server thread/INFO]: Time elapsed: 2625 ms
+[19:04:24] [Server thread/INFO]: Done (4.472s)! For help, type "help"
+[19:04:40] [User Authenticator #1/INFO]: UUID of player SeokHoKim is b9b5d7a0-ddd0-4602-82bf-a57c811e146c
+[19:04:40] [Server thread/INFO]: SeokHoKim[/127.0.0.1:51059] logged in with entity id 558 at (312.0091616694306, 43.0, -153.65890582617232)
+[19:04:40] [Server thread/INFO]: SeokHoKim joined the game
+[19:20:01] [Server thread/INFO]: SeokHoKim lost connection: Disconnected
+[19:20:01] [Server thread/INFO]: SeokHoKim left the game
