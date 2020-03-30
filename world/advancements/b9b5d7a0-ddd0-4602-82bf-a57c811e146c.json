@@ -408,6 +408,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2020-03-30 14:07:57 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2020-02-26 18:27:56 +0900"
@@ -969,6 +975,12 @@
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2020-03-17 21:47:05 +0900"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2020-03-30 14:39:29 +0900"
     },
     "done": true
   },
@@ -2137,7 +2149,8 @@
       "rabbit": "2020-03-03 02:26:41 +0900",
       "bread": "2020-02-12 20:27:37 +0900",
       "rotten_flesh": "2020-02-10 19:08:10 +0900",
-      "cooked_chicken": "2020-03-03 15:01:17 +0900"
+      "cooked_chicken": "2020-03-03 15:01:17 +0900",
+      "cooked_salmon": "2020-03-30 12:25:28 +0900"
     },
     "done": false
   },
@@ -2353,6 +2366,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:ocelot": "2020-03-30 13:41:25 +0900",
       "minecraft:cow": "2020-02-23 22:47:31 +0900",
       "minecraft:chicken": "2020-03-09 00:30:37 +0900"
     },
